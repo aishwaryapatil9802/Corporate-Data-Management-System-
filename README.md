@@ -47,7 +47,9 @@ o Correctness of database design.
 o Proper execution of the given situational INSERT queries.
 o Accuracy of relationships between Employees and Departments.
 o Formatting and cleanliness of SQL code.
-Expected Outcome:
+
+# Expected Outcome:
+
 By completing this project, students will:
 • Gain hands-on experience with SQL database design and management.
 • Understand how to use INSERT queries for real-world business operations.
